@@ -1,8 +1,9 @@
-# 내가해냄
+# Today I Learned
+
+내가 해냄
 
 
-
-# 타임라인
+# Timeline
 
 
 
