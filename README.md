@@ -20,7 +20,7 @@
 
 ### GitHub
 
-- [GitHub 흐름](./Github/깃허브_흐름. md)
+- [GitHub 흐름](./Github/깃허브_흐름.md)
 
 
 
