@@ -13,6 +13,8 @@
 
 
 
+
+
 # 마크다운 문법
 
 ## 제목/소제목(Heading)
@@ -22,8 +24,6 @@
 - `#`의 개수에 따라 `h1` ~ `h6`까지 표현 가능하다. 
 
 - 글씨 크기를 키우는 용도가 아니라 **제목을 표현하는 용도**이다.
-
-
 
 # h1
 
@@ -80,8 +80,8 @@
 
 ### Fenced Code Block
 
-- ``(backtick)` 기호 3개를 활용하여 작성한다.
-- ``(backtick)`  뒤에 특정 언어를 명시하면 `Syntax Highlighting` 기능이 적용된다.
+- `backtick` 기호 3개를 활용하여 작성한다. 
+- `backtick`  뒤에 특정 언어를 명시하면 Syntax Highlighting 기능이 적용된다.
 
 ```python
 print('hello')
@@ -134,14 +134,14 @@ Typora의 경우 `drag & drop`으로 이미지를 삽입할 수 있다.
 
 
 
-![KakaoTalk_20220706_135429706]([DAY2] Markdown.assets/KakaoTalk_20220706_135429706.jpg)
+![너구리](Markdown.assets/너구리.jpg)
 
 
 
-- 절대경로 : C:\Users\soyou\Desktop\Markdown
+- 절대경로 *C:\Users\soyou\Desktop\Markdown*
   - 외부 공개 시 이미지가 깨져 보일 수 있다. 
 
-- 상대경로 : ./Markdown
+- 상대경로  *./Markdown*
 
 
 
@@ -166,9 +166,9 @@ Typora의 경우 `drag & drop`으로 이미지를 삽입할 수 있다.
 
 ## 텍스트  강조
 
-**굵게(볼드체)** : `**`
+**굵게(볼드체)** : `**`text`**`, `__`text`__`, `ctrl` + `b`
 
-*기울임(이탤릭체)* : `*`
+*기울임(이탤릭체)* : `*`text`*`, `ctrl` + `i`
 
 ~~취소선~~ : `~~`
 
@@ -201,6 +201,3 @@ Typora의 경우 `drag & drop`으로 이미지를 삽입할 수 있다.
 ### 👻이모지 
 
 - `window` + `.` 
-
-
-
