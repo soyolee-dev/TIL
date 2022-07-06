@@ -1,12 +1,4 @@
-# 디렉토리 관리
-
-디렉토리 (directory) : 폴더
-
-$ 뒤에 명령어를 입력하여 사용
-
-
-
-### CLI 기초 명령어
+# CLI 기초 명령어
 
 - `pwd` (*print working directory*) : 현재 디렉토리 출력
 - `cd` `____` (*change directory*) : 디렉토리 이동

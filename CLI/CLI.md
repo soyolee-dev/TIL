@@ -1,6 +1,8 @@
-# Interface
+# CLI
 
-인터페이스 : 무언가를 조작하는 전면
+### Interface 
+
+: 무언가를 조작하는 전면
 
 
 
@@ -23,3 +25,10 @@
 - 명령 프롬프트에서 `$ mkdir 폴더명` 입력
 
   *mkdir: cannot create directory 'test1': File exists*
+  
+  
+  
+- 디렉토리 관리
+
+  - 디렉토리 (directory) : 폴더
+  - $ 뒤에 명령어를 입력하여 사용
