@@ -45,7 +45,7 @@
 
 
 
-#### 순서가 없는 리스트(ul)
+### 순서가 없는 리스트(ul)
 : `- (hyphen)`, `* (asterisk)` + `Tab`
 
 - 사과
@@ -60,7 +60,7 @@
 
 
 
-#### 순서가 있는 리스트(ol) 
+### 순서가 있는 리스트(ol) 
 : `1.` `2.` `3.`+ `Tab`
 
 아침에 일어나서 KDT 교육 듣기
@@ -78,7 +78,7 @@
 
 ## 코드 블록
 
-#### Fenced Code Block
+### Fenced Code Block
 
 - ``(backtick)` 기호 3개를 활용하여 작성한다.
 - ``(backtick)`  뒤에 특정 언어를 명시하면 `Syntax Highlighting` 기능이 적용된다.
@@ -106,7 +106,7 @@ print('hello')
 
   
 
-#### Inline Code Block
+### Inline Code Block
 
 - ``(backtick)` 기호 1개로 텍스트를 감싸 활용한다.
 
@@ -134,7 +134,7 @@ Typora의 경우 `drag & drop`으로 이미지를 삽입할 수 있다.
 
 
 
-![rice](마크다운.assets/rice.jpg)
+![KakaoTalk_20220706_135429706]([DAY2] Markdown.assets/KakaoTalk_20220706_135429706.jpg)
 
 
 
@@ -184,21 +184,21 @@ Typora의 경우 `drag & drop`으로 이미지를 삽입할 수 있다.
 
 ## 기타 정리
 
-#### 띄어쓰기 (`Tab`) 있는 것
+### 띄어쓰기 (`Tab`) 있는 것
 
 - 제목 (`#`)
 - 목록 (`-`,`1.`)
 
 
 
-#### 띄어쓰기 (`Tab`) 없는 것
+### 띄어쓰기 (`Tab`) 없는 것
 
 - `inline code block`
 -  `*기울임*`, `**굵게**` 등 텍스트 강조
 
 
 
-#### 👻이모지 
+### 👻이모지 
 
 - `window` + `.` 
 
