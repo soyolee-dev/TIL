@@ -4,7 +4,7 @@
 
 ## 1. 개요
 
-![pahkey_KRRKrp](Markdown_practice.assets/pahkey_KRRKrp.png)
+![python](Markdown_practice.assets/python.png)
 
 
 
@@ -39,6 +39,4 @@
 
 3. **공식문서가 자세히 제공된다.**
 
-​		[파이썬 공식문서 링크](https://docs.python.org/3/)
-
-  
+​		[파이썬 공식문서 링크](https://docs.python.org/3/) 
